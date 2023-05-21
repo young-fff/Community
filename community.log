@@ -1,0 +1,11 @@
+2023-05-21 19:19:35.347  INFO 14596 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests on youngff with PID 14596 (started by youngff in D:\java\project\Community_project\myCode\community1.5)
+2023-05-21 19:19:35.348 DEBUG 14596 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2023-05-21 19:19:35.348  INFO 14596 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2023-05-21 19:19:37.148  INFO 14596 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2023-05-21 19:19:37.392  INFO 14596 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-05-21 19:19:37.614  INFO 14596 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 2.532 seconds (JVM running for 3.166)
+2023-05-21 19:19:37.864 DEBUG 14596 --- [main] com.nowcoder.community.LoggerTests       : debug log
+2023-05-21 19:19:37.864  INFO 14596 --- [main] com.nowcoder.community.LoggerTests       : info log
+2023-05-21 19:19:37.864  WARN 14596 --- [main] com.nowcoder.community.LoggerTests       : warn log
+2023-05-21 19:19:37.864 ERROR 14596 --- [main] com.nowcoder.community.LoggerTests       : error log
+2023-05-21 19:19:37.870  INFO 14596 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

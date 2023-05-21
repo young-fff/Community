@@ -1,0 +1,7 @@
+2023-05-21 20:04:39,754 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:50] Starting LoggerTests on youngff with PID 3164 (started by youngff in D:\java\project\Community_project\myCode\community1.5)
+2023-05-21 20:04:39,756 INFO [main] c.n.c.LoggerTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2023-05-21 20:04:41,361 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2023-05-21 20:04:41,589 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2023-05-21 20:04:41,776 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:59] Started LoggerTests in 2.366 seconds (JVM running for 3.009)
+2023-05-21 20:04:42,014 INFO [main] c.n.c.LoggerTests [LoggerTests.java:25] info log
+2023-05-21 20:04:42,021 INFO [Thread-2] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
